@@ -1,0 +1,19 @@
+{
+  "name": "aa45ss-todoo-list",
+  "version": "1.0.0",
+  "description": "A todo list with the help of cli",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayishaa",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
